@@ -1,0 +1,54 @@
+[
+	{
+		"username": "Ethan123",
+		"firstName": "Ethan",
+		"lastName": "Wang",
+		"gender": "Male",
+		"Color": "White",
+		"img": "./img/ethan-outfit.JPG"
+	},
+	{
+		"username": "sheluvhungy",
+		"firstName": "Hung",
+		"lastName": "Tran",
+		"gender": "Male",
+		"Color": "Black",
+		"img": "./img/hung-outfit.JPG"
+	},
+	{
+
+		"username": "Ivy123",
+		"firstName": "Ivy",
+		"lastName": "Brown",
+		"gender": "Female",
+		"Color": "Black",
+		"img": "./img/ivy-outfit.JPG"
+	},
+	{
+
+		"username": "Thong123",
+		"firstName": "Thong",
+		"lastName": "Garcia",
+		"gender": "Male",
+		"Color": "Tan",
+		"img": "./img/thong-outfit.JPG"
+	},
+	{
+
+		"username": "Tia123",
+		"firstName": "Tiasa",
+		"lastName": "Kim",
+		"gender": "Female",
+		"Color": "Orange",
+		"img": "./img/tiasa-outfit.jpg"
+	},
+	{
+
+		"username": "Youn123",
+		"firstName": "Youn",
+		"lastName": "Jeong",
+		"gender": "Female",
+		"Color": "Green",
+		"img": "./img/youn-outfit.jpg"
+	}
+]
