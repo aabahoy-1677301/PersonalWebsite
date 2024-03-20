@@ -62,8 +62,10 @@ export function HeaderSection() {
 				<Link to="index.html">
 					<img src={"./img/clothcampic.png"} alt="camera" />
 				</Link>
-				<Link to="profile.html">Profile</Link>
-				<Link to="post.html">Post</Link>
+				<div className="navbar-right">
+					<Link to="profile.html">Profile</Link>
+					<Link to="post.html">Post</Link>
+				</div>
 			</div>
 		</header>
 	);
